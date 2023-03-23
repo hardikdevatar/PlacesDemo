@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Places Demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+it is using following Places Api to load the places according to search input
+refer Api doc https://apidocs.geoapify.com/docs/places/#api
+we have used filter request parameter for Malasiya state.
+It will search for categories commercial,activity,accommodation,catering,education,healthcare,heritage,leisure,natural,office from Malaysia country.
 
 ## Available Scripts
 
