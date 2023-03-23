@@ -1,0 +1,9 @@
+.main-container{
+    padding: 5%;
+}
+
+.marker-style{
+    background-color: "yellow";
+    font-size: "32px";
+    padding: "16px";
+}
