@@ -46,6 +46,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more about places api used for the demo (https://apidocs.geoapify.com/docs/places/#api).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
